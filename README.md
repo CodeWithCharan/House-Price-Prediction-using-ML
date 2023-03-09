@@ -46,7 +46,7 @@
                  demand for clean air', J. Environ. Economics & Management,
                  vol.5, 81-102, 1978.
   - Date: July 7, 1993 [Click on this link for datasets](https://archive.ics.uci.edu/ml/machine-learning-databases/housing/)
-- We cleaned the data by filling in missing values where possible(0, mean, or median).
+- We converted housing.data and housing.names files into a data.csv file. Then we cleaned the data by filling in missing values where possible(0, mean, or median).
 
 ### III. Data Exploration and Analysis
 - We used a variety of techniques to explore the data and identify promising attributes for our model. For example, we created scatterplots and histograms to visualize the distribution of different variables, and calculated correlation coefficients to identify variables that were highly correlated with the target variable (i.e., house price).
